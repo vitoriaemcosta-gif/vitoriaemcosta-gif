@@ -11,10 +11,10 @@
   <br><br>
 
   <!-- Badges de Redes Sociais -->
-  <a href="https://linkedin.com/in/SEU_PERFIL" target="_blank">
+  <a href="https://linkedin.com/in/vitoria-emanuelly-machado-costa-6b90801ab" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:vitoriae.m.costa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
@@ -24,24 +24,13 @@
 
 ---
 
-### 👑 Sobre Mim
+### Sobre Mim
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 Graduanda em <b>Ciência da Computação</b> pelo <b>Centro Universitário FEI</b>.</li>
-        <li>💻 Formada como <b>Técnica em Informática para Internet</b> pela ETEC Lauro Gomes.</li>
-        <li>🎨 Apaixonada por <b>Front-end</b>, criação de interfaces de alta fidelidade e <b>UI/UX Design</b>.</li>
-        <li>⚙️ Expandindo meus conhecimentos em <i>Programação Orientada a Objetos</i>, <i>Estruturas de Dados</i> e <i>Redes</i>.</li>
-        <li>🌱 Sempre desenvolvendo projetos práticos combinando tecnologia, usabilidade e design.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg5g/giphy.gif" width="230px" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+🎓 Graduanda em **Ciência da Computação** pelo **Centro Universitário FEI**
+💻 Formada como **Técnica em Informática para Internet** pela **ETEC Lauro Gomes**
+🎨 Apaixonada por **Front-end**, criação de interfaces de alta fidelidade e **UI/UX Design**
+⚙️ Expandindo meus conhecimentos em *Programação Orientada a Objetos*, *Estruturas de Dados* e *Redes*
+🌱 Sempre desenvolvendo projetos práticos combinando tecnologia, usabilidade e design
 
 ---
 
@@ -50,12 +39,12 @@
 <div align="center">
 
   <!-- Fileira 1: Frontend & Design -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
   
   <br>
 
   <!-- Fileira 2: Backend & Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=python,postgres,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 
 </div>
 
@@ -64,29 +53,15 @@
 ### ✨ Projetos em Destaque
 
 <details>
+  <summary><b> Advocacia NM / Web Apps</b></summary>
+  <br>
+  Padding land desenvolvida para a Advocacia Nelemar Machado, voltada para divulgação
+</details>
+
+<details>
   <summary><b>🌟 TCC — ONG Íris (Front-end & UX/UI)</b></summary>
   <br>
   Ecosistema digital desenvolvido focado em apoio informativo e experiência visual do usuário, estruturado com HTML, CSS e JavaScript responsivo.
 </details>
 
-<details>
-  <summary><b>🕹️ JOGO FullStack / Web Apps</b></summary>
-  <br>
-  Aplicações web completas integrando lógica interativa no Front-end e rotas no Back-end.
-</details>
-
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaemcosta-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaemcosta-gif&layout=compact&theme=tokyonight&hide=c,html" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:e0aaff&height=100&section=footer" width="100%" />
-</div>
