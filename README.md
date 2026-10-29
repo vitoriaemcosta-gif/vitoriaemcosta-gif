@@ -28,9 +28,8 @@
 
 🎓 Graduanda em **Ciência da Computação** pelo **Centro Universitário FEI**<br>
 💻 Formada como **Técnica em Informática para Internet** pela **ETEC Lauro Gomes**<br>
-🎨 Apaixonada por **Front-end**, criação de interfaces de alta fidelidade e **UI/UX Design**<br>
+🎨 Estagiária como Desenvolvedora ** Web Front-end** na Prefeitura Municipal de Santo André<br>
 ⚙️ Expandindo meus conhecimentos em *Programação Orientada a Objetos*, *Estruturas de Dados* e *Redes*<br>
-🌱 Sempre desenvolvendo projetos práticos combinando tecnologia, usabilidade e design
 
 ---
 
