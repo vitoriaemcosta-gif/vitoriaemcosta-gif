@@ -28,7 +28,7 @@
 
 🎓 Graduanda em **Ciência da Computação** pelo **Centro Universitário FEI**<br>
 💻 Formada como **Técnica em Informática para Internet** pela **ETEC Lauro Gomes**<br>
-🎨 Estagiária como Desenvolvedora ** Web Front-end** na Prefeitura Municipal de Santo André<br>
+🎨 Estagiária como Desenvolvedora **Web Front-end** na Prefeitura Municipal de Santo André<br>
 ⚙️ Expandindo meus conhecimentos em *Programação Orientada a Objetos*, *Estruturas de Dados* e *Redes*<br>
 
 ---
